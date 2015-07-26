@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E6926ABC1B650083000972DA /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = E6926ABB1B650083000972DA /* 4.png */; };
 		E699AA611B62776D008E82F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E699AA601B62776D008E82F5 /* AppDelegate.swift */; };
 		E699AA631B62776D008E82F5 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E699AA621B62776D008E82F5 /* MasterViewController.swift */; };
 		E699AA651B62776D008E82F5 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E699AA641B62776D008E82F5 /* DetailViewController.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E6926ABB1B650083000972DA /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
 		E699AA5D1B62776D008E82F5 /* Image Viewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Image Viewer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E699AA601B62776D008E82F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E699AA621B62776D008E82F5 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				E699AAB61B62A233008E82F5 /* 2.png */,
 				E699AAB81B62A239008E82F5 /* 3.png */,
 				E699AAB51B62A233008E82F5 /* 1.png */,
+				E6926ABB1B650083000972DA /* 4.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -170,6 +173,7 @@
 				E699AAAF1B62803A008E82F5 /* nssl0045.jpg in Resources */,
 				E699AAB01B62803A008E82F5 /* nssl0046.jpg in Resources */,
 				E699AAB11B62803A008E82F5 /* nssl0049.jpg in Resources */,
+				E6926ABC1B650083000972DA /* 4.png in Resources */,
 				E699AAAD1B62803A008E82F5 /* nssl0042.jpg in Resources */,
 				E699AA6A1B62776D008E82F5 /* Assets.xcassets in Resources */,
 				E699AAB31B62803A008E82F5 /* nssl0091.jpg in Resources */,
@@ -335,6 +339,7 @@
 				E699AA731B62776D008E82F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
