@@ -14,4 +14,4 @@ Let users share media to Facebook and Twitter.
 	<li> Learn about UIBarButtonItems </li>
 	<li> Experiment with UIActivityViewController, social frameworks, and NSURL</li>
 </ul>
-	<img src="https://github.com/macbellingrath/Photo-Browser/blob/master/4.png" alt="UIActivityViewController Sharing" height=667  width=375></img>
+<img src="https://github.com/macbellingrath/Photo-Browser/blob/master/4.png" alt="UIActivityViewController Sharing" height=667  width=375></img>
